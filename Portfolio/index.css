@@ -1,3 +1,12 @@
 .jumbotron {
     text-align: center;
 }
+
+@media (min-width: 576px) { 
+    h1 {
+        font-size-adjust
+    }
+    .lead {
+        font-size: 90%
+    }
+ }
